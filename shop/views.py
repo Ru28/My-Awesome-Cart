@@ -25,8 +25,4 @@ def checkout(request):
 
 
 
-def about(request):
-    return HttpResponse("We are at about")
-
-
 
