@@ -9,7 +9,7 @@ def about(request):
     return HttpResponse("We are at about")
 
 def contact(request):
-    return HttpResponse("We are at about")
+    return HttpResponse("We are at contact")
 
 def tracker(request):
     return HttpResponse("We are at tracker")
